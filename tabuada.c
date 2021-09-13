@@ -15,6 +15,5 @@ int main(){
         printf("%ix%i=%i\n", n, contador, contador*n);
     }
 
-
     return EXIT_SUCCESS;
 }
